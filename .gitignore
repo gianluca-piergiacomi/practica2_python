@@ -1,0 +1,9 @@
+# Ignorar entorno virtual
+.venv/
+
+# Ignorar archivos compilados y cache de Python
+__pycache__/
+*.pyc
+
+# Ignorar checkpoints de los notebooks (por las dudas para cuando los uses)
+.ipynb_checkpoints/
